@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: Resume
 title: Gabriela Amaller's Resume
 ---
 # Gabriela Amaller
