@@ -7,7 +7,6 @@ title: Gabriela Amaller's Resume
 - Proficiency with Microsoft Office, Trello, PowerBI, Tableau, SQL, Python, and R.
 - Fluent in English and Spanish as well as proficient in French.
 
-
 <div id="webaddress">
 <a href="gabyamaller@gmail.com">gabyamaller@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
@@ -35,12 +34,17 @@ __Brigham Young University - Hawaii__, Laie, HI
 
 - A.S. in Business Management
 
+
+
 ## Publications 
 
 ### Annotated Bibliography
 
 `2022` 
 __Language Nests__, Oxford Bibliographies, Oxford, UK
+
+-Analyzed and researched qualitative and quantitative information on Language Nests.
+
 
 ## Related Experience
 
@@ -98,6 +102,7 @@ __Receptionist__, Maranello Moto Sport, North York, ON
 
 - Created a filing system for over 500 work orders in accordance with auditing standards.
 
+
 ## Service History
 
 `2022`
@@ -112,6 +117,6 @@ __Service Missionary__, the Church of Jesus Christ of Latter-day Saints, Calgary
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2022 -->
 
 
