@@ -3,9 +3,10 @@ layout: resume
 title: Gabriela Amaller's Resume
 ---
 # Gabriela Amaller
-Experienced in performing strategic data analysis and research for organizations.
-Proficiency with Microsoft Office, Trello, PowerBI, Tableau, SQL, Python, and R.
-Fluent in English and Spanish as well as proficient in French.
+- Experienced in performing strategic data analysis and research for organizations.
+- Proficiency with Microsoft Office, Trello, PowerBI, Tableau, SQL, Python, and R.
+- Fluent in English and Spanish as well as proficient in French.
+
 
 <div id="webaddress">
 <a href="gabyamaller@gmail.com">gabyamaller@gmail.com</a>
