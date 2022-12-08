@@ -1,15 +1,17 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Gabriela Amaller's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Gabriela Amaller
+Experienced in performing strategic data analysis and research for organizations.
+Proficiency with Microsoft Office, Trello, PowerBI, Tableau, SQL, Python, and R.
+Fluent in English and Spanish as well as proficient in French.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="gabyamaller@gmail.com">gabyamaller@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="http://www.linkedin.com/in/gabriela-amaller">LinkedIn</a>
+| <a href="https://github.com/gabyamaller">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -21,64 +23,89 @@ __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- B.S. in Business Analytics 
+- Certificate in Data Science
 
+`2019 - 2021`
+__Brigham Young University - Hawaii__, Laie, HI
+
+- A.S. in Business Management
+
+## Publications 
+
+### Annotated Bibliography
+
+`2022` 
+__Language Nests__, Oxford Bibliographies, Oxford, UK
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`2021`
+__Human Resource Intern__, Sherwin-Williams, Hawaiian Islands, HI
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Devised a one-month incentive-based employee state-wide competition.
+- Increased employee engagement and doubled the sales as of March 2021.
+- Conducted data collection and presented the findings to the head managers.
 
-### Data Science Lead
+`2022`
+__Research Assistant__, , Willes Center for International Entrepreneurship
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Interviewed 26 entrepreneurs from Mexico and Canada in 2 months; 
+- Transcribed each interview from Spanish to English.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Lead Supervisor 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`2022 - present`
+__Lead TA Manager Assistant/ Data Analyst__, OAS Online TA Office, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Used data mining techniques to formulate reports on 250+ Online TAs for managers, stakeholders and course councils.
+- Implemented and improved new R and python scripts that increased team performance efficiency and saved 15 hours a week.
+- Problem-solved and troubleshooted scripts, online TA concerns, Canvas course issues, etc.
+- Lead and trained 3 new TA manager assistants on logistic and data mining duties for six months.
 
-### Data Science Consulting Team
+`2019 - 2020`
+__Office Assistant Supervisor__, BYU Hawaii Facilities Management Office, Laie, HI
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Assisted in 2-5 job interviews per month for student candidates.
+- Managed a multicultural employee team of 7 individuals and conducted weekly 1-1/team meetings
+- Data collected and devised a preventative maintenance program for 850 assets while managing other projects.
+- Developed proposals, data assessments, evaluations, and meeting notes on a regular basis. 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Full-Time Employment
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`2020 - 2021`
+__Reading and Writing Tutor__, BYU Hawaii Reading & Writing Center, Laie, HI
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Initiated and devised a new training program for new remote tutors.
+- Created 20 training videos on administrative & clerical duties, policies & guidelines, and training on tutoring appointments for the following students: EIL, English, and other degree students.
+- Remotely tutored 10-15 BYUH students per week from various continents.
 
+`2018 - 2019`
+__Service Appointment Coordinator__, Audi Brampton, Brampton, ON 
 
-## Service and Work History
+- Coordinated and scheduled detailed appointments for over 100 customers per day.
+- Replied daily to over 50 customer emails and answered over 100 phone calls.
+- Met monthly target sales contributing to team's success. 
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2018`
+__Receptionist__, Maranello Moto Sport, North York, ON
 
+- Created a filing system for over 500 work orders in accordance with auditing standards.
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Service History
+
+`2022`
+__President of the Relief Society__, the Church of Jesus Christ of Latter-day Saints, Rexburg, ID
+
+- a philanthropic and educational women's organization of the Church of Jesus Christ of Latter-day Saints. 
+
+`2016 - 2017`
+__Service Missionary__, the Church of Jesus Christ of Latter-day Saints, Calgary, AB
 
 
 
