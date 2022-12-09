@@ -1,11 +1,9 @@
 ---
-layout: resume
+layout: cv
 title: Gabriela Amaller's Resume
 ---
 # Gabriela Amaller
-- Experienced in performing strategic data analysis and research for organizations.
-- Proficiency with Microsoft Office, Trello, PowerBI, Tableau, SQL, Python, and R.
-- Fluent in English and Spanish as well as proficient in French.
+Proficiency with Microsoft Office, Trello, PowerBI, Tableau, SQL, Python, and R.
 
 <div id="webaddress">
 <a href="gabyamaller@gmail.com">gabyamaller@gmail.com</a>
@@ -17,11 +15,6 @@ title: Gabriela Amaller's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
 
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
