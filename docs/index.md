@@ -7,7 +7,6 @@ Proficiency with Microsoft Office, Trello, PowerBI, Tableau, SQL, Python, and R.
 
 <div id="webaddress">
 <a href="gabyamaller@gmail.com">gabyamaller@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="http://www.linkedin.com/in/gabriela-amaller">LinkedIn</a>
 | <a href="https://github.com/gabyamaller">GitHub</a>
 </div>
